@@ -12,7 +12,7 @@
   - Avro
   - Sqoop
   - Mahout
-  - Cassandra
+  - [Cassandra 卡珊德拉](http://dongxicheng.org/nosql/cassandra-intro/)
   - Chukwa
   - [Ambari——大数据平台的搭建利器 ]( https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/)
   - HCatalog
