@@ -17,5 +17,5 @@
   - [Ambari——大数据平台的搭建利器 ]( https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/)
   - HCatalog
   - Chukwa
-  - [Cloudera Manager](https://yq.aliyun.com/articles/60759)
+  - [Cloudera Manager](https://yq.aliyun.com/articles/60759)
  
