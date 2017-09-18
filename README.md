@@ -19,3 +19,7 @@
   - Chukwa
   - [Cloudera Manager](https://yq.aliyun.com/articles/60759)
  
+
+# 架构
+  [各大互联网公司架构演进之路汇总](http://blog.csdn.net/xlgen157387/article/details/50556982)
+  [武汉产品经理](http://blog.csdn.net/playkid123)
