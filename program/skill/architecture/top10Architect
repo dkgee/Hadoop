@@ -15,3 +15,21 @@
         (2) 权衡取舍
         (3) 管控能力
         (4) 艺术气质
+
+
+2，CTO所具备的素养
+     个人的知识素养是由长久的一个个点滴的成长过程培养出来的。对于每个Java开发者来说，最初的学习都是从一个个陌生的名词开始，逐步深入扩大学习范围。
+
+
+3，软件架构师进行系统设计架构与设计，所涉及的哪几个方面的工作？
+    涉及三方面工作，分别为系统建模、系统设计、系统架构。具体内容、描述和产生结果如下：
+    系统建模：UML是进行系统设计和架构的表达工具，用来展示软件的细节。这个工作成果是设计文档。
+    系统设计：设计模式是进行系统设计的模式和方法，它就好比是模具，可以用来生产一个一个软件部件。设计的结果就是代码。
+    系统架构：架构是软件的骨架，用来搭建各个软件部件，包括SOA、ROA、COA。工作成果就是架构。
+
+4，对于JavaEE四个层次的核心开发技术思考？
+    核心编程：语法、核心类、图形、网络
+    Web核心技术：前端(HTML、CSS、JS、XML、Ajax、Cookie)、业务(Session、JSP、JavaBean、Servlet、Freemarker、EL)、存储(SQL、MySQL、Oracle、SQLServer、Redis、MongoDB、H2)
+    Web核心框架：前端(模板、jQuery、ExtJs、Bootstrap、ECharts)、业务(SpringMVC、MyBatis、JDBC、Hibernate、Struts2)
+    高级应用：消息队列、JavaMail邮件服务、WebService、开源技术与框架(工作流、规则引擎、搜索引擎、缓存引擎、任务调度、身份认证、报表服务、系统测试、集群与负载均衡)
+    实施部署：操作系统(CentOS、Ubuntu)、Web应用服务器(Tomcat、Weblogic、Nginx)、其他服务(NTFS、FTP)
