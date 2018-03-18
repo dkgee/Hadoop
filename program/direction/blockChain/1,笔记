@@ -1,0 +1,77 @@
+
+
+
+区块链学习入门资料参考地址：
+    （1）http://blog.51cto.com/zero01/2066321
+    （2）https://www.btc123.com/list
+
+   目标：（1）熟悉由区块链产生出虚拟货币的运行原理，技术知识点。
+
+
+(1) 比特币白皮书：一种点对点的电子现金系统（http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system）
+    实现目标：在线支付能够直接由一方发起并支付给另外一方，中间不需要通过任何的金融机构。
+    参考技术：数字签名（digital signatures）、
+    解决问题：（1）防止双重支付（double-spending）
+    技术概括：
+            a、点对点运行环境
+            b、交易加上时间戳与随机散列
+            c、随机散列工作量证明（POF）
+            d、诚实的节点+链条
+    工作特点：
+            a、大量计算
+            b、分布式
+            c、节点随时离开和加入网络
+            d、最长工作量证明链条作为交易证明
+    相关概念：
+            a、交易（transactions）
+            b、时间戳服务器（Timestamp Server）
+            c、工作量证明（Proof-Of-Work）(超级账本，Hyperledger)
+            d、网络
+            e、激励
+            f、回收硬盘空间
+            g、简化支付确认(Simplied Payment Verification)
+            h、价值的组合与分割（Combining and Splitting Value）
+            i、隐私（Privacy）
+            j、计算
+    最终结论：提出了一种不需要信用中介的电子支付系统。
+
+
+    相关算法：
+        共识算法: PoW、PoS、DPos、PBFT、Paxos、Raft
+        安全协议：
+                P2P：gossip
+        加密算法：
+                对称：
+                非对称：
+                国产加密算法：
+        密码学
+        Docker
+
+    链种类：联盟链、公链、侧链、私有链、
+
+    币种：BitCoin、Ethereum
+
+
+    业务方向：理财类产品、
+
+
+(2) 虚拟货币相关网站
+    蚂蚁矿池：https://antpool.com/
+    挖币网：http://www.wabi.com/
+
+(3) 等级定位
+    个人
+        区块链业务产品经理/运营总监  7w+
+        区块链(技术)专家  4w+
+        区块链高级研发工程师/技术经理   2w+
+        区块链工程师/架构师  1.5w+
+
+    优秀区块链企业
+
+(4) 小试牛刀
+       step1：研究并搭建主流的区块链框架、
+       step2：熟悉常见的共识算法
+       step3：搭建自主可控的区块链基础模型
+       step4：通过数学的方法搭建区块链交易模型、经济模型。
+
+       公司产品迭代
