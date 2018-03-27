@@ -7,7 +7,6 @@
 
    目标：（1）熟悉由区块链产生出虚拟货币的运行原理，技术知识点。
 
-
 (1) 比特币白皮书：一种点对点的电子现金系统（http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system）
     实现目标：在线支付能够直接由一方发起并支付给另外一方，中间不需要通过任何的金融机构。
     参考技术：数字签名（digital signatures）、
@@ -37,17 +36,24 @@
 
 
     相关算法：
-        共识算法: PoW、PoS、DPos、PBFT、Paxos、Raft
+        共识算法: PoW、PoS、DPos、PBFT、Paxos、Raft   （https://blog.csdn.net/lsttoy/article/details/61624287）
+                Pow:proof of work 工作量证明，计算能力随机
+                Pos：proof of stake 权益证明，拥有财产的随机
+                DPos：Delegated proof of stake，委任权益证明
+                PBFT：Practical Byzantine Fault Tolerance，实用拜占庭算法
+                Paxos:  https://www.cnblogs.com/linbingdong/p/6253479.html
+                Raft:  http://www.jdon.com/artichect/raft.html
         安全协议：
                 P2P：gossip
         加密算法：
                 对称：
-                非对称：
+                非对称：SHA-256
                 国产加密算法：
+                MD5
         密码学
         Docker
 
-    链种类：联盟链、公链、侧链、私有链、
+    链种类：联盟链、公链、侧链、私有链、  （http://www.8btc.com/elwingao-blockchain-6）
 
     币种：BitCoin、Ethereum
 
@@ -75,3 +81,33 @@
        step4：通过数学的方法搭建区块链交易模型、经济模型。
 
        公司产品迭代
+(5) 区块链框架
+       https://wenku.baidu.com/view/bba2c562e418964bcf84b9d528ea81c758f52e21.html
+(6) 区块链概念
+    参考地址：    https://www.cnblogs.com/boonya/p/8573575.html
+    概念：区块链是一项技术，加密货币是其开发实现的一类产品
+        广义的区块链：当大家单独说到区块链的时候，就是指的区块链技术，是实现了数据公开、透明、可追溯的产品的架构设计方法，
+        狭义的区块链：当在具体产品中谈到区块链的时候，可以指类似比特币的数据存储方式，或许是数据库设计，或许是文件形式的设计。
+        广义的区块链技术：必须包含 点对点网络设计、加密技术应用、分布式算法的实现、数据存储技术的使用等4个方面，其他的可能涉及到分布式存储、机器学习、VR、物联网、大数据等
+        狭义的区块链技术：仅仅涉及到数据存储技术，数据库或文件操作等。
+    编程技术知识：
+        区块链：
+            基础知识：
+                基本概念：
+                工作原理：
+                应用场景：
+            开发文档：
+                开发文档：
+                资源汇总：
+            技术实现：
+                共识算法
+                钱包开发
+                P2P网络
+                加密技术
+                存储技术
+            开发环境：
+                环境搭建
+                开发工具
+            项目实践：
+                项目实践
+                开源产品
